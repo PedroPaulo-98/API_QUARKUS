@@ -1,0 +1,7 @@
+org/acme/MyEntity.class
+org/acme/dto/ProductDTO.class
+org/acme/entity/ProductEntity.class
+org/acme/repository/ProductRepository.class
+org/acme/controller/ProductController.class
+org/acme/GreetingResource.class
+org/acme/service/ProductService.class
